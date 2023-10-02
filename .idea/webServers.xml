@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="866aa3ed-1ff7-4b71-926e-bc512b6c181a" name="HUNO_host" url="http://hvn45-24838.azdigihost.com">
+        <fileTransfer host="hvn45-24838.azdigihost.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

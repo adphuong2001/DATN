@@ -1,0 +1,61 @@
+.main_box {
+    background: #ad3c51;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+
+.container {
+    margin-top: 25px;
+}
+
+.main_box H1 {
+    color: #ffd320;
+    text-shadow: 2px 2px #222;
+    font-weight: 900;
+}
+
+.main_box H3 {
+    color: #ecece4;
+    text-shadow: 2px 2px #222;
+    font-weight: 900;
+}
+
+body{
+    height: 100%;
+    background-image: url('https://topshare.com.vn/htdocs/images/news/2020/10/22/800/5f915026aa2a1_xem_tu_vi_online_7.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.form-group label{
+    color: #efefef;
+}
+.t_form{
+    padding: 25px;
+}
+.form-control{
+    font-size: 25px;
+    height: 60px;
+    font-weight: 600;
+}
+.btn-submit{
+    background: #ffa620;
+    font-weight: 600;
+    color: #f1f1f1;
+}
+.btn-submit:hover{
+    background: #ff7300;
+}
+#rs_box p{
+    color: #fff;
+}
+.t_text_waiting{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.t_form label{
+    font-size: 21px;
+    color: #fdba56;
+}
